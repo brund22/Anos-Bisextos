@@ -1,0 +1,8 @@
+C:\Users\Ol\Documents\SharpDevelop Projects\AnosBisexto\AnosBisexto\bin\Debug\AnosBisexto.exe.config
+C:\Users\Ol\Documents\SharpDevelop Projects\AnosBisexto\AnosBisexto\bin\Debug\AnosBisexto.exe
+C:\Users\Ol\Documents\SharpDevelop Projects\AnosBisexto\AnosBisexto\bin\Debug\AnosBisexto.pdb
+C:\Users\Ol\Documents\SharpDevelop Projects\AnosBisexto\AnosBisexto\obj\Debug\AnosBisexto.csprojResolveAssemblyReference.cache
+C:\Users\Ol\Documents\SharpDevelop Projects\AnosBisexto\AnosBisexto\obj\Debug\AnosBisexto.MainForm.resources
+C:\Users\Ol\Documents\SharpDevelop Projects\AnosBisexto\AnosBisexto\obj\Debug\AnosBisexto.csproj.GenerateResource.Cache
+C:\Users\Ol\Documents\SharpDevelop Projects\AnosBisexto\AnosBisexto\obj\Debug\AnosBisexto.exe
+C:\Users\Ol\Documents\SharpDevelop Projects\AnosBisexto\AnosBisexto\obj\Debug\AnosBisexto.pdb
